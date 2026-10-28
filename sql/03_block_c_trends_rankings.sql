@@ -1,5 +1,4 @@
 -- Block C: Trends and rankings (Questions 11-15)
--- Run in the sql_practice database after 00_setup.sql
 SET search_path TO shop;
 
 -- Question 11: Month-over-month revenue growth
